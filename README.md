@@ -1,4 +1,4 @@
-# FileDownloader
+# FileDownloader - A copy of https://github.com/lingochamp/FileDownloader
 Android multi-task file download engine.
 
 
